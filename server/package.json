@@ -1,4 +1,8 @@
 {
+	"engines"{
+       "node" : "20.6.1"
+	},
+
 	"name": "studynotion-backend",
 	"version": "1.0.0",
 	"description": "studynotion-backend",
